@@ -64,13 +64,13 @@ iframe {
 }
 
 .btn:hover {
-opacity: 0.8;
+    opacity: 0.8;
 }
 
 .navig {
     position: fixed;
     margin: auto;
-    top: 0px;
+    top: 0;
     width: 1200px;
     table-layout: fixed;
 }
