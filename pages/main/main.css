@@ -1,0 +1,35 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+} 
+
+.container table {
+    border: 3px solid;
+    width: 1200px;
+}
+ 
+.container p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.container th {
+    background: #e6e6fa;
+    width: 70%;
+}
+
+.navig {
+    position: fixed;
+    margin: auto ;
+    top: 0;
+    width: 1200px;
+    table-layout: fixed;
+    border: 3px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+ .navig td {
+    border: 3px solid;
+    padding: 5px;
+    background: #e6e6fa;
+ }
